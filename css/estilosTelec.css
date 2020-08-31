@@ -113,12 +113,11 @@ nav {
   
   .aside-t p{
     width: 100%;
-    height: 70vh;
+    height: 50vh;
   }
-  
   .aside-t img{
       width: 100%;
-      height: 340px;
+      height: 300px;
   }
   
   h3 {
