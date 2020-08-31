@@ -45,17 +45,18 @@
     height: 15px;
   }
   
-  .nav-red {
+
+  nav {
     display: flex;
     justify-content: flex-end;
     flex: 5 1 auto;
   }
   
-  .nav-red a {
+  .nav-enlace {
     color: rgb(2, 2, 122);
     font-size: 11px;
     text-transform: uppercase;
-    padding: 10px 20px;
+    padding: 10px 10px;
     letter-spacing: 2px;
     flex-direction: row;
     float: right;
@@ -63,9 +64,22 @@
     font-family: Verdana;
   }
   
-  .nav-red a:hover {
+  .nav-enlace:hover {
     color: rgb(189, 161, 124);
     background: rgb(2, 2, 122);
+  }
+  
+  .nav-boton{
+    color: rgb(2, 2, 122);
+    font-size: 11px;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    letter-spacing: 5px;
+    flex-direction: row;
+    float: right;
+    border-radius: 50px;
+    font-family: Verdana;
+    display: none;
   }
   
   .texto-principal-red {
@@ -179,15 +193,25 @@
       display: inline-block;
       height: auto;
     }
+    nav{
+      flex-direction: column;
+    }
+    .nav-enlace{
+      margin: 10px 0;
+    }
+    .nav-boton{
+      display: inline-block;
+    }
+    .desaparece{
+      display: none;
+    }
+    
     h1 {
       font-size: 15px;
     }
-    .text-principal {
+    .texto-principal-red {
       height: 80px;
     }
-  }
-  
-  @media all and (max-width: 762px) {
     .articulos-red {
       flex-direction: column;
     }
