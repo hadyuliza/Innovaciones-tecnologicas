@@ -110,17 +110,9 @@
     font-family: Verdana;
     font-size: 16px;
   }
-  
-  h3 {
-    font-size: 15px;
-    padding: 0px 0 10px 0;
-    color: rgb(189, 161, 124);
-    font-family: Verdana;
-   
-  }
 
   h2 {
-    background:  rgb(2, 2, 122);
+    background:  rgb(189, 161, 124);
     color: #fff;
     padding: 10px;
     text-transform: uppercase;
