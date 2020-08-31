@@ -1,2 +1,2 @@
-# innovaciones-tecnologicas
+# Novedades-tecnologicas
 Pagina creada: por Angie López, Hady Cordoba y Shary Palacios.
