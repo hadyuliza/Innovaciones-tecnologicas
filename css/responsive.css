@@ -54,12 +54,12 @@
    }
    .article-img1tel, 
    .article-img3tel{
-    width: 90%;
-    justify-content: space-around;
+    width: 100%;
+    justify-content: center;
    }
    .article-img2tel{
-    width: 80%;
-    justify-content: space-around;
+    width: 100%;
+    justify-content: center;
     
    }
 
