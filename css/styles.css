@@ -173,15 +173,11 @@ body {
 }
 /*Imagenes del article de telecomunicaciones y article de software*/
 .article-img1tel, .article-img3tel, .article-img-soft {
-  width: 100%;
-  height: auto;
   float: left;
   padding: 2em;
   
 }
 .article-img2tel{
-  width: 100%;
-  height: auto;
   float: right;
   padding: 2em;
 }
