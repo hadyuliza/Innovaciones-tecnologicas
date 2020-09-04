@@ -54,14 +54,12 @@
    }
    .article-img1tel, 
    .article-img3tel{
-    width: 89%;
-    justify-content: center;
-    float: none;
+    width: 80%;
+   margin: 20px;
    }
    .article-img2tel{
-    width: 89%;
-    justify-content: center;
-    float: none;
+    width: 80%;
+     margin: 20px;
    }
 
    .article-text-tele {
