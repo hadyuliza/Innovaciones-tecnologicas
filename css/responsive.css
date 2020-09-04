@@ -55,9 +55,12 @@
    .article-img1tel, 
    .article-img3tel{
     width: 80%;
+    justify-content: space-around;
    }
    .article-img2tel{
     width: 80%;
+    justify-content: space-around;
+    
    }
 
    .article-text-tele {
